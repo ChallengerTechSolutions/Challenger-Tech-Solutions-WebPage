@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  height: 100%;
+  background-size: 100%;
+}
+
+#container {
+  min-height: 100%;
+}
+
+#main {
+  overflow: auto;
+  padding-bottom: 105px;
+}
+
+#footer {
+  background-color:orangered;
+  position: relative;
+  height: 80px;
+  margin-top: -40px;
+  clear: both;
+}
+
+#wrapper {
+  margin: 0 auto;
+  width: 1000px;
+}
+
+#body {
+	padding:5px;
+    font--size:20px;
+    width:100px;
+	color:
+}
+#shit {
+	 padding:5px;
+    font--size:20px;
+    width:200px;
+	color: white;
+	background-color: red;
+}
