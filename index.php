@@ -13,11 +13,11 @@
 <body>
 <form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>" method="post">
   username:<br>
-  <input type="username" name="username" value=""><span class="error">* <?php echo $usersNameErr;?></span><br>
+  <input type="username" name="username" value="" required><span class="error">* <?php echo $usersNameErr;?></span><br>
   email:<br>
-  <input type="email" name="email" value=""><span class="error">* <?php echo $usersEmailErr;?></span><br>
+  <input type="email" name="email" value="" required><span class="error">* <?php echo $usersEmailErr;?></span><br>
   password:<br>
-  <input type="password" name="password" value=""><span class="error">* <?php echo $usersPasswordErr;?></span><br>
+  <input type="password" name="password" value="" required><span class="error">* <?php echo $usersPasswordErr;?></span><br>
   <input type="submit" value="Submit">
 </form> 
 <?php
