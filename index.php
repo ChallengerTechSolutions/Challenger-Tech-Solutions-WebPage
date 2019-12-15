@@ -1,6 +1,7 @@
 <?php
     include 'mysqli_connect.php';
     include 'form_validation.php';
+    include 'empty_data_check.php'
 ?>
 <!DOCTYPE html>
 <html>

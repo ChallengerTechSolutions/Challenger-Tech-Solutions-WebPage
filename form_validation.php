@@ -31,6 +31,7 @@
     return $data;
   }
 
+
   $sql = "INSERT INTO test (usersName, usersPassword, usersEmail)
 VALUES ('$usersName', '$usersPassword', '$usersEmail')";
 
