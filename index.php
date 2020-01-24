@@ -3,16 +3,26 @@
 
   <head>
     <meta charset="utf-8">
-    <meta name="keywords" content="Scambaiting, Challenger Scambaiting YouTube, Scambait, Scambaiter,the challenger 346, report a scam, report a scammer, how to report a scam">
+    <title>Challenger ScamBaiting</title>
+    <meta data-react-helmet="true" name="keywords" content="Scambaiting, Challenger Scambaiting YouTube, Scambait, Scambaiter,the challenger 346, report a scam, report a scammer, how to report a scam, Ehtosham Javed">
     <meta name="author" content="Challenger ScamBaiting team">
-    <meta name="url" content="https://thechallenge346.ga">
-    <meta property="image" content="http://www.thechallenger346.ga/icon/logo.png">
-    <meta name="description" content="We call them all day so please report them here. Got scammed and want your money back? Please let use know!">
+    <meta data-react-helmet="true" name="tags" content="scambaiting">
+    <meta data-react-helmet="true" property="og:url" content="https://thechallenger346.ga/?i=1">
+    <meta data-react-helmet="true" name="description" content="We call them all day so please report them here. Got scammed and want your money back? Please let use know!">
+    <meta data-react-helmet="true" property="og:title" content="Home Page">
+    <meta data-react-helmet="true" property="og:description" content="We call them all day so please report them here. Got scammed and want your money back? Please let use know!">
+    <meta data-react-helmet="true" property="og:image" content="https://thechallenger346.ga/icon/logo.png?i=2">
     <meta name="subject" content="What do we do?">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta data-react-helmet="true" name="title" content="Challenger ScamBaiting">
+    <meta data-react-helmet="true" name="medium" content="website">
+    <meta data-react-helmet="true" property="og:site_name" content="ABC13 Houston">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta http-equiv="x-ua-compatible" content="IE=edge,chrome=1">
+    <meta property="og:locale" content="en_US">
+    <meta name="robots" content="NOODP,NOYDIR">
     <link rel="icon" href="https://thechallenger346.ga/icon/logo.png" type="image/icon">
     <link rel="stylesheet" href="style.css" type"stylesheet">
-    <title>Challenger ScamBaiting</title>
   </head>
   <!--Start of Tawk.to Script-->
   <script type="text/javascript">
@@ -64,11 +74,10 @@
       </div>
     </div>
     <div class="page-bottom">
-    <a href="http://terms.thechallenger346.ga/terms.php">
+    <a href="http://terms.thechallenger346.ga/">
       <button class="TOS">Terms of Service</button>
     </a>
     </div>
   </div>
   </body>
-  <iframe width="0" height="0" src="https://www.youtube.com/embed/InQ0vJ6O0mc?autoplay=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </html>
